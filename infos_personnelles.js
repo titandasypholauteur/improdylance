@@ -1,0 +1,103 @@
+var html =  '<!DOCTYPE html>'+
+'<html lang="fr-FR">'+
+'    <head>'+
+'    <title>Tes infos personnelles</title>'+
+'     <meta charset="utf-8" :>'+
+'    </head>'+
+'    <link rel="stylesheet" href="style.css">'+
+'    <body>'+
+'    <main>'+
+'        <h2>Un peu sur toi</h2><br />'+
+'        <fieldset class="">'+
+'            <legend>Études (si tu es étudiant.e)</legend>'+
+'        '+
+'            '+
+'            '+
+''+
+'                            <p class="champ">'+
+'            <label for="Info3">Établissement d\'études</label>'+
+'            <input id="Info3" name="Info3"	size="32" value="" class="" />'+
+'        </p>'+
+'                           <p class="champ">'+
+'          <label for="Info3">Cursus suivi et niveau actuel</label>'+
+'          <input id="Info3" name="Info3"	size="32" value="" class="" />'+
+'      </p>'+
+'            '+
+''+
+'            </fieldset>'+
+''+
+'            <fieldset class="">'+
+'              <legend>Profession (si tu es salarié.e)</legend>'+
+'              <p class="champ">'+
+'                  <label for="Info3">métier/intitulé du poste</label>'+
+'                  <input id="Info3" name="Info3"	size="32" value="" class="" />'+
+'              </p>'+
+'          '+
+'             '+
+''+
+''+
+'              '+
+'  '+
+'              </fieldset>'+
+''+
+'    <fieldset class="">'+
+'      <legend>toi en tant qu\'improvisateur/improvisatrice</legend>'+
+'        '+
+'      <p>'+
+'<label>Expérience en impro</label>'+
+'<select name="dtJr" class="">'+
+'<option value=""></option>'+
+'                    '+
+'                      <option value="novice" >novice</option>'+
+'                      <option value="qqs_ateliers" >quelques ateliers suivis</option>'+
+'                      <option value="audition_passee" >a passé une audition</option>'+
+'                      <option value="unan" >1 an d\'expérience</option>'+
+'                      <option value="2_5ans">2 à 5 ans d\'expérience</option>'+
+'                      <option value="5etplus" >au moins 5 ans d\'expérience</option></select></p>'+
+''+
+'                      <p class="champ">'+
+'                          <label>Si tu as de l\'expérience en impro, détaille-la :</label><br />'+
+'                          <label>ateliers suivis : <input id="Info3" name="Info3"	size="32" value="" class="" /></label> <br /> '+
+'                          <label>troupes/ateliers dans lesquelles tu étais : <input id="Info3" name="Info3"	size="32" value="" class="" /></label> <br /> '+
+'                          <label>ateliers d\'essai ou cycles non terminés (si tu le souhaites tu peux en évoquer la raison) : <input id="Info3" name="Info3"	size="32" value="" class="" /></label> <br /> '+
+'                          <label>auditions passées : <input id="Info3" name="Info3"	size="32" value="" class="" /></label> <br /> '+
+'                          <label>spectacles joués : <input id="Info3" name="Info3"	size="32" value="" class="" /></label> <br /> '+
+'                          <label>autres rôles (assistant.e arbitre, bénévole) : <input id="Info3" name="Info3"	size="32" value="" class="" /></label> <br />                            '+
+'                          <label>grandes expériences (arbitre, MC, suivi stage de formateur (Impro France à Trappes par exemple), animé un atelier d\'impro) : <input id="Info3" name="Info3"	size="32" value="" class="" /></label>'+
+'                       '+
+'                  </fieldset>'+
+'                      <fieldset class="">'+
+'                          <legend>toi et le body balance</legend>'+
+'        '+
+'      <p>'+
+'<label>Expérience en body balance</label>'+
+'<select name="dtJr" class="">'+
+'<option value=""></option>'+
+'                    '+
+'                      <option value="novice" >novice</option>'+
+'                      <option value="qqs_ateliers" >quelques ateliers suivis</option>'+
+'                      <option value="inferieur_un_an" >moins d\'un an</option>'+
+'                      <option value="unan" >1 an d\'expérience</option>'+
+'                      <option value="2ansplus">au moins 2 ans d\'expérience</option></select></p>'+
+'                      '+
+'                      <p><label>club.s dans lesquelles tu étais/es : <input id="Info3" name="Info3"	size="32" value="" class="" /></label> <br /> '+
+'                      </p>  '+
+'                      <p class="champ">'+
+'                          <label>As-tu animé un atelier de body balance ?</label>'+
+'                                                          '+
+'                                                              <option value=""></option>'+
+'                                                              <select name="dtJr" class="">  '+
+'                                                                                          <option value="non" >Non</option>'+
+'                                                                                          <option value="oui" >Oui</option></select>'+
+'                                                          </p>'+
+'                               '+
+''+
+'            </fieldset><br />'+
+''+
+'   '+
+'          '+
+''+
+'    </main>'+
+'   '+
+'    <body>'+
+'</html';
