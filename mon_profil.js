@@ -13,7 +13,7 @@ var html =  '<!DOCTYPE html>'+
 '    <section>'+
 '    <button>insère ta photo de profil<a href=""></a></button>'+
 '</section><!--mettre la mention "profil vérifié" ou "profil à vérifier" sous la photo de profil-->'+
-''+
+'<a href="page_profils_globaux.html">Retour profils globaux</a>'+
 '<p style="text-align: center;">abonné.e.s</p>'+
 '<p style="text-align: center">abonnements</p> <!--à l\'instar d\'Instagram, mettre anonnements à droite d\'abonné.e.s--><br />'+
 '<p style="text-align: center;">ma bio<!--Présente-toi succinctement (études/profession, âge, et surtout : l\'impro et/ou le body balance)--></p>'+

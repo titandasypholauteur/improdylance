@@ -94,6 +94,15 @@ var html =  '<!DOCTYPE html>'+
 ''+
 '            </fieldset><br />'+
 ''+
+'            <section>'+
+'                <button>'+
+'                    Enregistrer'+
+'                </section>'+
+''+
+''+
+'            <a href="page_profils_globaux.html">Retour page profils globaux</a>'+
+'        <a href="mon_profil.html">Retour mon profil</a>'+
+''+
 '   '+
 '          '+
 ''+

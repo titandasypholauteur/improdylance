@@ -23,7 +23,7 @@
 	<p>_infos de contact : téléphone, courriel, réseaux sociaux, troupe.s d'impro, club de body balance</p>
 	<p>_vérification de ton profil : par SMS, lien envoyé par courriel, test sur les réseaux sociaux (choisir le nombre ou le caractère ou l'image s'affichant sur l'appli du smartphone), document attestant que le/la membre est dans telle troupe d'impro et/ou tel club de body balance</p>
 	<p>_politique de confidentialité de tes données personnelles : infos sur le traitement des données, la Quadrature du Net</p>
-	<p>_Clôturer ton compte : procédure pour le fermer définitivement, ne plus y avoir accès</p>
+	<p>_Clôturer ton compte : procédure pour le fermer définitivement, ne plus y avoir accès.</p>
 	<br />
 	<h2>ton profil</h2><br />
 	<p>_aligner de droite à gauche : paramètres, DM, notifications</p>
@@ -34,7 +34,9 @@
 	<h2>engagements temporels et tarifs</h2><br />
 	<p>à priori demeure ainsi.</p>
 	<h2>développements futurs et annexes</h2><br />
-	<p>évoluera.</p>
+	<p>évoluera.</p><br />
+	<h2>infos personnelles</h2><br />
+	<p>Ajouter <a href=""></a> pour que le bouton d'envoi fonctionne.</p>
 	
 
     </main>
